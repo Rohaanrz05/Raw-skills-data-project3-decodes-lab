@@ -30,8 +30,11 @@ The framework utilizes pure Python engineering logic coupled with lean, producti
 ## 🚀 Execution Guide (Google Colab Setup)
 
 Follow these step-by-step terminal and cell instructions inside your notebook node to initiate the live server telemetry:
-
+### Live Demo Website
+https://raw-skills-data-project3-decodes-lab-i5qshdwxzyjzdafb65vdmp.streamlit.app/
 ### 1. Install Workspace Dependencies
 Execute the pip pipeline command to clear requirements block setups:
 ```bash
 !pip install streamlit pandas numpy scikit-learn
+
+
